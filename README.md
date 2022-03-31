@@ -1,4 +1,4 @@
-# Data Visualization Guided Practice
+# Amazon Data Analytics: Data Visualization Guided Practice
 
 This repository contains data visualization practice problems.
 
